@@ -1,3 +1,4 @@
+A full-stack web application that detects toxic cosmetic ingredients — especially PFAS ("forever chemicals") — using machine learning and a curated chemical list.
 Frontend :	React, Material-UI (MUI), Axios
 Backend : API	Node.js, Express.js
 ML Model :  API	Python, Flask, scikit-learn, pickle
